@@ -6,6 +6,8 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
 using Ali.Admin.Models;
+using Ali.Data;
+using Ali.Model;
 
 namespace Ali.Admin
 {

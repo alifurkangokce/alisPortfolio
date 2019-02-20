@@ -11,6 +11,8 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
 using Ali.Admin.Models;
+using Ali.Model;
+using Ali.Data;
 
 namespace Ali.Admin
 {
